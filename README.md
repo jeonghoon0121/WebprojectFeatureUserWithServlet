@@ -42,4 +42,5 @@ project 만들기
 
 
 trouble shooting 
-1. @WebServlet("") ""안의 url은 반드시 앞에 /가 있어야한다. 
+1. @WebServlet("") ""안의 url은 반드시 앞에 /가 있어야한다.
+2. super.doGet(req, resp)은 405에러를 생성한다. 
