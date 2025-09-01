@@ -32,7 +32,9 @@ project 만들기
 
 
 3. 내용전달
-
+  1.a태그의 href속성에 직접 파라미터를 쿼리스트링 형태로 작성하여 get방식 요청
+  2.form get방식
+  3.form post방식   
    
 
 
