@@ -36,7 +36,7 @@ project 만들기
   2.form get방식
   3.form post방식   
    
-
+href속성에 직접 파라미터를 전달하는 방법과 form get방식 전달은 비슷하다. 
 
 
 
