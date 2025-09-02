@@ -1,5 +1,5 @@
 1. 서블릿 생명주기 init service destory
-2. 요청전달 
+2. 요청전달 get, post 방식 
 3. 내용전달 스트링 전달 form  get전달, post전달
 
 
