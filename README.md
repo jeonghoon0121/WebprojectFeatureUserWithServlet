@@ -50,6 +50,9 @@ host, connection, sec-ch-ua, sec-ch-ua-mobile, sec-ch-ua-platform, upgrade-insec
 
 5. data 이동 forward 방식, redirect 방식
 
+새로고침시 forward방식은 요청이 더 들어가니 db조회시만 사용
+redirect는 db로 crud하기 
+
 
 
 trouble shooting 
