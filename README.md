@@ -43,6 +43,12 @@ project 만들기
    
 href속성에 직접 파라미터를 전달하는 방법과 form get방식 전달은 비슷하다. 
 
+4. header, request, response, responseheader
+
+header에 든 내용
+host, connection, sec-ch-ua, sec-ch-ua-mobile, sec-ch-ua-platform, upgrade-insecure-requests, user-agent, accept, sec-fetch-site, sec-fetch-mode, sec-fetch-user, sec-fetch-dest, referer, accept-encoding, accept-language, cookie
+
+
 
 
 
