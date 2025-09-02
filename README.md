@@ -49,4 +49,5 @@ href속성에 직접 파라미터를 전달하는 방법과 form get방식 전�
 trouble shooting 
 1. @WebServlet("") ""안의 url은 반드시 앞에 /가 있어야한다.
 2. super.doGet(req, resp)은 405에러를 생성한다.
-3. name이 같은경우 500에러를 생성한다. 
+3. name이 같은경우 500에러를 생성한다.
+4. url 겹치는 서블릿이 있을경우 실행되지 않음
