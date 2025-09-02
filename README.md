@@ -48,7 +48,7 @@ href속성에 직접 파라미터를 전달하는 방법과 form get방식 전�
 header에 든 내용
 host, connection, sec-ch-ua, sec-ch-ua-mobile, sec-ch-ua-platform, upgrade-insecure-requests, user-agent, accept, sec-fetch-site, sec-fetch-mode, sec-fetch-user, sec-fetch-dest, referer, accept-encoding, accept-language, cookie
 
-
+5. data 이동 forward 방식, redirect 방식
 
 
 
