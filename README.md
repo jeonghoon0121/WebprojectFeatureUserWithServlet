@@ -1,7 +1,7 @@
-1. 서블릿 생명주기 init service destory
-2. 요청전달 get, post 방식 
-3. 내용전달 스트링 전달 form  get전달, post전달
-
+proeject1 서블릿 생명주기 init service destory
+project2 요청전달 get, post 방식 
+project3 내용전달 스트링 전달 form  get전달, post전달
+project4 페이지 전달 (db전달용 )
 
 # WebprojectFeatureUserWithServlet
 
@@ -52,6 +52,8 @@ host, connection, sec-ch-ua, sec-ch-ua-mobile, sec-ch-ua-platform, upgrade-insec
 
 새로고침시 forward방식은 요청이 더 들어가니 db조회시만 사용
 redirect는 db로 crud하기 
+
+
 
 
 
